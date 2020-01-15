@@ -70,9 +70,9 @@ void fibo(int nth)
 
 int main()
 {
-    int num;
-    scanf("%d", &num);
-    fibo(num);
+    int n;
+    scanf("%d", &n);
+    fibo(n);
 
     return 0;
 }
