@@ -2,6 +2,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+
 int fibo(int nth)
 {
     int term1 = 0, term2 = 1;
